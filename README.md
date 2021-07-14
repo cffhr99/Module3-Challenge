@@ -29,10 +29,19 @@ The analysis of the election:
    - Diana DeGette
    - Raymon Anthony Doane
 - The candidate results were:
-   - Charles Casper Stockham received *23.0%* of the vote and *85,213* number of votes.
-   - Diana DeGette received *73.8%* of the vote and *272,892* number of votes.
-   - Raymon Anthony Doane received *3.1%* of the vote and *11,606* number of votes.
-
-## Challenge Overview
+   - Charles Casper Stockham received _*23.0%*_ of the vote and _*85,213*_ number of votes.
+   - Diana DeGette received _*73.8%*_ of the vote and _*272,892*_ number of votes.
+   - Raymon Anthony Doane received _*3.1%*_ of the vote and _*11,606*_ number of votes.
+- The winner of the election was:
+   - Diana DeGette received _*73.8%*_ of the vote and _*272,892*_ number of votes.
 
 ## Challenge Summary
+The additional analysis of the election:
+- 3 counties in the election were:
+   - Jefferson
+   - Denver
+   - Arapahoe
+- The county results were:
+   - Jefferson received _*10.5%*_ of the vote and _*38,855*_ number of votes.
+   - Denver received _*82.8%*_ of the vote and _*306,055*_ number of votes.
+   - Arapahoe received _*6.7%*_ of the vote and _*24,801*_ number of votes. 

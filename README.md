@@ -18,7 +18,7 @@ A Colorado Board of Elections employee requested your help in completing an elec
 3. Determine which county had the largest turnout.
 
 ## Resources
-
+*Data Source*: Election_results.csv[https://github.com/cffhr99/Module3-Challenge/blob/main/Resources/election_results.csv]
 ## Summary
 
 ## Challenge Overview

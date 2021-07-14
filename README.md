@@ -18,8 +18,19 @@ A Colorado Board of Elections employee requested your help in completing an elec
 3. Determine which county had the largest turnout.
 
 ## Resources
-*Data Source*: Election_results.csv[https://github.com/cffhr99/Module3-Challenge/blob/main/Resources/election_results.csv]
+*Data Source*: [Election_results.csv](https://github.com/cffhr99/Module3-Challenge/blob/main/Resources/election_results.csv)
+*Softare*: Python:3.9.5, Visual Studio Code: 1.58.1.
 ## Summary
+The analysis of the election:
+- There were 369,711 votes cast in the election.
+- The candidates were:
+   - Charles Casper Stockham
+   - Diana DeGette
+   - Raymon Anthony Doane
+- The candidate results were:
+   - Charles Casper Stockham received *23.0%* of the vote and *85,213* number of votes.
+   - Diana DeGette received *73.8%* of the vote and *272,892* number of votes.
+   - Raymon Anthony Doane received *3.1%* of the vote and *11,606* number of votes.
 
 ## Challenge Overview
 

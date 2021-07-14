@@ -18,8 +18,7 @@ A Colorado Board of Elections employee requested your help in completing an elec
 3. Determine which county had the largest turnout.
 
 ## Resources
-*Data Source*: [Election_results.csv](https://github.com/cffhr99/Module3-Challenge/blob/main/Resources/election_results.csv)
-
+*Data Source*: [Election_results.csv](https://github.com/cffhr99/Module3-Challenge/blob/main/Resources/election_results.csv)  
 *Softare*: Python:3.9.5, Visual Studio Code: 1.58.1.
 ## Summary
 The analysis of the election:
@@ -49,6 +48,5 @@ The additional analysis of the election:
    - Denver received *82.8%* of the vote and *306,055* number of votes.
 
 ## Analysis Files and Code
-[Election_analysis.txt](https://github.com/cffhr99/Module3-Challenge/blob/main/analysis/election_analysis.txt) 
-
+[Election_analysis.txt](https://github.com/cffhr99/Module3-Challenge/blob/main/analysis/election_analysis.txt)  
 [PyPoll_Challenge.py](https://github.com/cffhr99/Module3-Challenge/blob/main/PyPoll_Challenge.py)

@@ -19,6 +19,7 @@ A Colorado Board of Elections employee requested your help in completing an elec
 
 ## Resources
 *Data Source*: [Election_results.csv](https://github.com/cffhr99/Module3-Challenge/blob/main/Resources/election_results.csv)
+
 *Softare*: Python:3.9.5, Visual Studio Code: 1.58.1.
 ## Summary
 The analysis of the election:
